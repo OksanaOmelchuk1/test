@@ -1,0 +1,36 @@
+.container{
+	position: absolute;
+	right: 40%;
+	text-align: center;
+	color: white;
+
+}
+.background{
+background: grey;
+height: 160px;
+}
+.down{
+	border:1px solid black;
+	border-radius: 15px;
+	font-size: 10px;
+	padding: 10px 15px 10px 15px;
+	background: #f7b7b2;
+	color: white;
+}
+.down:hover{
+	
+	font-size: 11px;
+	background: #f7aca6;
+}
+h1{
+	margin-bottom: 10px;
+}
+.gh{
+	
+	width: 100px;
+	height: 100px;
+}
+body{
+	background-image: url(1.jpeg);
+	background-size: auto;
+}
